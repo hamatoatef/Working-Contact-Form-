@@ -1,0 +1,2 @@
+# Working-Contact-Form-
+In this project [Contact Form in PHP], as you can in the image preview, there is a contact form with a heading, input fields, button, and status text. This text is dynamic means this text change according to the form status and informs the user about their message is sending, sent, or failed. This contact form is fully validated means the user can’t send a message without entering a valid email address and message. You can watch a demo of this contact form or a tutorial of it.
